@@ -12,7 +12,7 @@
 
 ## Feito por:
 
-### Witalo
+### Witalo Vieira
 
 ### Linkedin: https://www.linkedin.com/in/witalo-vieira-melo-b605361b3/
 
