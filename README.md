@@ -1,6 +1,6 @@
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 
-![image](https://github.com/witalomelo/portfolio/blob/aa24b8c53ebf4031db28ec3e26fc274830f2ddae/panda.jpeg)
+![image](https://github.com/witalomelo/portfolio/blob/bbd5a01670a03097f59c44008aad6aad6e79727b/image.png)
 
 ## Ferramentas utilizadas:
 
@@ -14,6 +14,6 @@
 
 ### Witalo
 
-### Linkedin: https://www.linkedin.com/school/aluracursos/](https://www.linkedin.com/in/witalo-vieira-melo-b605361b3/
+### Linkedin: https://www.linkedin.com/in/witalo-vieira-melo-b605361b3/
 
 ```
